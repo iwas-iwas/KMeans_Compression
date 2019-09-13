@@ -10,8 +10,7 @@ skimage, pandas, numpy, sklearn (KMeans-Clustring)
 
 **- Explore original image and preprocessing**
   - load pixel (rgb-values)
-  - shape
-  - size
+  - view shape and size
   - rearange pixel dimensions for KMeans 
 
 **- Applying KMeans-Cluestering**
