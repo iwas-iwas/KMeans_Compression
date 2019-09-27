@@ -1,6 +1,16 @@
-# View Project: https://nbviewer.jupyter.org/github/iwasscience/KMeans_Compression/blob/master/KMeans_Compression.ipynb
+# View Project: 
 
-# Picture Compression Project - Iwas Iwas
+https://nbviewer.jupyter.org/github/iwasscience/KMeans_Compression/blob/master/KMeans_Compression.ipynb
+
+# Picture Compression Project
+
+!(cluster_error)[error.png]
+
+In a coloured image, each pixel is of size 3 bytes (RGB), where each colour can have intensity values from 0 to 255. Image compression is a type of data compression applied to digital images, to reduce their cost for storage or transmission.
+
+This project shows how this can be done using the KMeans Clustering technique.
+
+Let's start by importing libraries, loading the RGB values of each pixel and displaying the image that needs to be compressed.
 
 ## Tools:
 
