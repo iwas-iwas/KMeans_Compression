@@ -10,7 +10,9 @@ In a coloured image, each pixel is of size 3 bytes (RGB), where each colour can 
 
 This project shows how this can be done using the KMeans Clustering technique.
 
-Let's start by importing libraries, loading the RGB values of each pixel and displaying the image that needs to be compressed.
+### Motivation
+
+Small project to compress a picture using kmeans-clustering for the RGB-values of each pixel to be able to set it as GitHub profile picture.
 
 ## Tools:
 
