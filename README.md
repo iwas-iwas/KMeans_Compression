@@ -4,11 +4,13 @@ https://nbviewer.jupyter.org/github/iwasscience/KMeans_Compression/blob/master/K
 
 # Picture Compression Project
 
-![cluster_error](error.png)
+![cluster_error](Data/error.png)
 
 In a coloured image, each pixel is of size 3 bytes (RGB), where each colour can have intensity values from 0 to 255. Image compression is a type of data compression applied to digital images, to reduce their cost for storage or transmission.
 
 This project shows how this can be done using the KMeans Clustering technique.
+
+![before_after](Data/before_after.jpg)
 
 ### Motivation
 
